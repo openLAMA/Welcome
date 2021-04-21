@@ -83,7 +83,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 TBD
 
@@ -158,7 +157,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the GNU AFFERO GENERAL PUBLIC LICENSE License. See `LICENSE` for more information.
+Distributed under the GNU AFFERO GENERAL PUBLIC LICENSE License. See [LICENSE](https://github.com/openLAMA/Welcome/blob/main/LICENSE.md) for more information.
 
 
 

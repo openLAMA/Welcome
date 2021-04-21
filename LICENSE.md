@@ -1,4 +1,6 @@
-    <openLAMA is an open source platform which has been developed by the Swiss Kanton Basel Landschaft, with the goal of automating and managing large scale covid     testing programs or any other pandemic/viral infections.>
+    <openLAMA is an open source platform which has been developed by the Swiss Kanton Basel Landschaft, 
+    with the goal of automating and managing large scale covid testing programs or 
+    any other pandemic/viral infections.>
 
     Copyright (C) <2021>  <Kanton Basel Landschaft, Switzerland>
     This program is free software: you can redistribute it and/or modify

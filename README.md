@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://openlama.org/">
-    <img src="OpenLama Logo.png" alt="Logo" >
+    <img src="OpenLama Logo.png" alt="Logo" width= 70%>
   </a>
 
   <h3 align="center">Open Lama Readme</h3>

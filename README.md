@@ -144,7 +144,7 @@ Distributed under the GNU AFFERO GENERAL PUBLIC LICENSE License. See [LICENSE](h
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@elyonviktor](https://twitter.com/elyonviktor) - viktor.andreas@openlama.org
+viktor.andreas@openlama.org
 
 Project Link: [https://github.com/openLAMA](https://github.com/openLAMA)
 

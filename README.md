@@ -99,6 +99,7 @@ In Progress
 ## Usage
 
 Screenshots:
+Welcome/Bildschirmfoto 2021-04-23 um 02.22.42.png
 
 
 _For more examples, please refer to the [GERMAN Documentation](https://github.com/openLAMA/Welcome/blob/main/openLAMA%20-%20U%CC%88bersicht%20DEUTSCH.pdf)_ or [ENGLISH Documentation](In Progress)_ 

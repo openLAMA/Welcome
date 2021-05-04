@@ -83,46 +83,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-TBD
-
+Lama Open Source Platform. An initiative by the Swiss Canton Baselland.
+Lama is a digital platform that could enable the planning, monitoring, and management of Covid-19 mass testing or vaccination initiatives. The Swiss Canton Baselland is currently using the system to manage the mass testing initiative.
 
 ### Built With
 
-List Technologies, Frameworks and Tools
-
+In Progress
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The technical documentation is currenly beeing worked on and will be added asap or can be provided on request. Please reach out to us. You will find the contacts below on our the Open Lama Website www.openlama.org
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+In Progress
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+In Progress
 
 
 <!-- USAGE EXAMPLES -->
@@ -147,9 +127,9 @@ See the [open issues](https://github.com/openLAMA/Welcome/issues) for a list of 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch 
+3. Commit your Changes 
+4. Push to the Branch 
 5. Open a Pull Request
 
 
@@ -164,7 +144,7 @@ Distributed under the GNU AFFERO GENERAL PUBLIC LICENSE License. See [LICENSE](h
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@elyonviktor](https://twitter.com/elyonviktor) - viktor.andreas@elyon.ch
+Your Name - [@elyonviktor](https://twitter.com/elyonviktor) - viktor.andreas@openlama.org
 
 Project Link: [https://github.com/openLAMA](https://github.com/openLAMA)
 
@@ -180,8 +160,8 @@ Project Link: [https://github.com/openLAMA](https://github.com/openLAMA)
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/openLAMA/Welcome/blob/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/company/open-lama
 [product-screenshot]: images/screenshot.png
 -->

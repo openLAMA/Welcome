@@ -99,6 +99,8 @@ In Progress
 ## Usage
 
 Screenshots:
+<img src="Bildschirmfoto 2021-04-23 um 02.22.42.png" alt="Regi" width= 70%>
+
 https://github.com/openLAMA/Welcome/blob/main/Bildschirmfoto%202021-04-23%20um%2002.22.42.png
 
 
